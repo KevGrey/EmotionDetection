@@ -1,0 +1,14 @@
+﻿Sentiment,Emotion
+neutral,neutral
+positive,positive-other
+positive,happy
+negative,astonished
+negative,negative-other
+positive,relaxed
+negative,worried
+negative,sadness
+negative,depress
+positive,grateful
+negative,fear
+negative,anger
+negative,disgust
